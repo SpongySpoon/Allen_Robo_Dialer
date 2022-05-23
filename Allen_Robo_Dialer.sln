@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allen_Robo_Dialer", "Allen_Robo_Dialer\Allen_Robo_Dialer.csproj", "{95E43ED0-2A5B-4D29-BDF9-4DD22568546B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E43ED0-2A5B-4D29-BDF9-4DD22568546B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E43ED0-2A5B-4D29-BDF9-4DD22568546B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E43ED0-2A5B-4D29-BDF9-4DD22568546B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E43ED0-2A5B-4D29-BDF9-4DD22568546B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F713A6-5AF6-44C0-BBC8-52ADFBA1AA35}
+	EndGlobalSection
+EndGlobal
